@@ -2,3 +2,9 @@ theme: jekyll-theme-minimal
 
 title: Hi, I'm Rui Qin Ng!
 description: Welcome to my Website.
+
+sidebar:
+    - title: "Title"
+      url: "test.html"
+    - title: "Title"
+      url: "test.html"
