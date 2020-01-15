@@ -4,6 +4,8 @@ title: Rui Qin Ng
 description: Welcome to my Website.
 
 sidebar:
+    - title: "My Resume"
+      url: "assets/Ng Rui Qin_Resume.pdf"
     - title: "Data Analytics Projects"
       url: "analytics-projects.html"
     - title: "Software Engineering Projects"
