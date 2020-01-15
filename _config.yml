@@ -4,7 +4,9 @@ title: Hi, I'm Rui Qin Ng!
 description: Welcome to my Website.
 
 sidebar:
-    - title: "Title"
-      url: "test.html"
-    - title: "Title"
-      url: "test.html"
+    - title: "Data Analytics Projects"
+      url: "analytics-projects.html"
+    - title: "Software Engineering Projects"
+      url: "software-projects.html"
+    - title: "View My LinkedIn Profile"
+      url: "https://www.linkedin.com/in/ngrq94/"
