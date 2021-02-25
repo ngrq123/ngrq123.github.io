@@ -1,6 +1,6 @@
 # Hi, I am Rui Qin Ng!
 
-Currently a final year undergraduate majoring in Information Systems and Analytics (Operational).
+A graduate with a Bachelor in Science (Information Systems) with Information Systems and Operations Analytics majors.
 
 My interests are in software engineering and data analytics, which are the areas that I am looking for in a job. I am interested to be part of an organisation that provides useable and impactful solutions. 
 
